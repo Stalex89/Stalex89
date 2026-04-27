@@ -87,5 +87,5 @@ I'm a Frontend Developer with **6 years of experience** building and maintaining
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&langs_count=8&theme=tokyonight" alt="Top languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Stalex89&layout=compact&langs_count=8&theme=tokyonight" alt="Top languages" />
 </p>

@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Oleksandr Staniev 👋</h1>
-<h3 align="center">A Frontend Developer based in Eindhoven, the Netherlands — building fast, accessible, data-driven web applications.</h3>
+<h3 align="center">A Frontend Developer based in the Netherlands — building fast, accessible, data-driven web applications.</h3>
 
 <p align="center">
   <a href="https://oleksandrstaniev.com" target="_blank">

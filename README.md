@@ -19,8 +19,14 @@
 
 I'm a Full-stack Web Developer specializing in building reliable, robust, feature-rich and user-friendly web applications. Focused on performance improvement, data handling and API reliability across the full stack.
 
+I worked in a wide range of projects, from personal websites to large-scale applications for critical infrastructure organizations, e-commerce, large corporations, small businesses and study portals.
+
+I am a team player, who enjoys collaborating to create cohesive and impactful solutions to customers.
+
+I learn fast and continuously. The IT ecosystem moves quickly and I treat that as a feature, not a problem.
+
 - 🔭 Currently refining my [personal portfolio](https://oleksandrstaniev.com) with Next.js, feature-driven architecture, and GDPR-friendly patterns.
-- 🌱 Always learning — lately exploring agentic AI.
+- 🌱 What's on my learning stack: exploring agentic AI.
 - 💬 Ask me about: **React, Next.js, TypeScript, Tailwind, headless CMS architectures**.
 - 📫 How to reach me: [oleksandrstaniev23@gmail.com](mailto:oleksandrstaniev23@gmail.com)
 - ⚡ Fun fact: outside of code, you'll find me at boardgame nights, in the boxing gym, or planning the next trip.

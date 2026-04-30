@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Oleksandr Staniev 👋</h1>
-<h3 align="center">A Frontend Developer based in the Netherlands — building fast, accessible, data-driven web applications.</h3>
+<h3 align="center">A Full-stack Web Developer based in the Netherlands — building fast, robust, data-driven web applications.</h3>
 
 <p align="center">
   <a href="https://oleksandrstaniev.com" target="_blank">
@@ -17,10 +17,10 @@
 
 ### 👨‍💻 About Me
 
-I'm a Frontend Developer with **6 years of experience** building and maintaining production web applications across corporate, e-commerce, dashboard, and platform domains. My focus is on the frontend — scalable architectures, clean component design, and great UX — but I'm comfortable across the stack and enjoy connecting frontends to APIs and CMS layers.
+I'm a Full-stack Web Developer specializing in building reliable, robust, feature-rich and user-friendly web applications. Focused on performance improvement, data handling and API reliability across the full stack.
 
 - 🔭 Currently refining my [personal portfolio](https://oleksandrstaniev.com) with Next.js, feature-driven architecture, and GDPR-friendly patterns.
-- 🌱 Always learning — lately exploring React 19, Server Components, and privacy-first web tooling.
+- 🌱 Always learning — lately exploring agentic AI.
 - 💬 Ask me about: **React, Next.js, TypeScript, Tailwind, headless CMS architectures**.
 - 📫 How to reach me: [oleksandrstaniev23@gmail.com](mailto:oleksandrstaniev23@gmail.com)
 - ⚡ Fun fact: outside of code, you'll find me at boardgame nights, in the boxing gym, or planning the next trip.
@@ -80,7 +80,7 @@ I'm a Frontend Developer with **6 years of experience** building and maintaining
 
 ### 🌍 Languages
 
-🇬🇧 English (C1) · 🇳🇱 Dutch (B1) · 🇺🇦 Ukrainian (Native) · 🇷🇺 Russian (Native)
+🇬🇧 English (C1) · 🇳🇱 Dutch (B1) · 🇺🇦 Ukrainian (Native) · 🇷🇺 Russian (C1)
 
 ---
 

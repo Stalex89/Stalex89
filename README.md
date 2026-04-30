@@ -2,7 +2,7 @@
 <h3 align="center">A Full-stack Web Developer based in the Netherlands — building fast, robust, data-driven web applications.</h3>
 
 <p align="center">
-  <a href="https://oleksandrstaniev.com" target="_blank">
+  <a href="https://www.oleksandrstaniev.com" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-0EA5E9?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio">
   </a>
   <a href="https://www.linkedin.com/in/oleksandr-staniev" target="_blank">
@@ -25,7 +25,7 @@ I am a team player, who enjoys collaborating to create cohesive and impactful so
 
 I learn fast and continuously. The IT ecosystem moves quickly and I treat that as a feature, not a problem.
 
-- 🔭 Currently refining my [personal portfolio](https://oleksandrstaniev.com) with Next.js, feature-driven architecture, and GDPR-friendly patterns.
+- 🔭 Currently refining my [personal portfolio](https://www.oleksandrstaniev.com) with Next.js, feature-driven architecture, and GDPR-friendly patterns.
 - 🌱 What's on my learning stack: exploring agentic AI.
 - 💬 Ask me about: **React, Next.js, TypeScript, Tailwind, headless CMS architectures**.
 - 📫 How to reach me: [oleksandrstaniev23@gmail.com](mailto:oleksandrstaniev23@gmail.com)

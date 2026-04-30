@@ -86,8 +86,7 @@ I learn fast and continuously. The IT ecosystem moves quickly and I treat that a
 
 ### 🌍 Languages
 
-🇬🇧 English (C1) · 🇳🇱 Dutch (B1) · 🇺🇦 Ukrainian (Native)
-
+🇬🇧 English (C1) · 🇳🇱 Dutch (B1)
 ---
 
 ### 📊 GitHub Stats

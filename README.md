@@ -26,7 +26,7 @@ I am a team player, who enjoys collaborating to create cohesive and impactful so
 I learn fast and continuously. The IT ecosystem moves quickly and I treat that as a feature, not a problem.
 
 - 🔭 Currently refining my [personal portfolio](https://www.oleksandrstaniev.com) with Next.js, feature-driven architecture, and GDPR-friendly patterns.
-- 🌱 What's on my learning stack: exploring agentic AI.
+- 🌱 What's on my learning stack: exploring **Agentic AI and AI agents**.
 - 💬 Ask me about: **React, Next.js, TypeScript, Tailwind, headless CMS architectures**.
 - 📫 How to reach me: [oleksandrstaniev23@gmail.com](mailto:oleksandrstaniev23@gmail.com)
 - ⚡ Fun fact: outside of code, you'll find me at boardgame nights, in the boxing gym, or planning the next trip.
